@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(25, 25, 25);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 450px;
+    padding-top: 100px;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.rock-icon{
+    border-radius: 50%;
+    border: 3px solid whitesmoke;
+    width: 120px;
+    height: 120px;
+    cursor: pointer;
+}
+
+
+.paper-icon{
+    height: 50px;
+    border: 3px solid whitesmoke;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+
+.scissor-icon{
+    height: 50px;
+    border-radius: 50%;
+    border: 3px solid whitesmoke;
+    width: 120px;
+    height: 120px;
+    cursor: pointer;
+}
+
+        
+.js-result{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+    color:white
+}
+
+        
+.js-score{
+    margin-top: 60px;
+}
+
+.reset-button{
+    background-color: white;
+    border: none;
+    font-size: 15px;
+    padding: 8px 15px;
+    cursor: pointer;
+}
