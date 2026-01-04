@@ -1,15 +1,23 @@
-🎮 Rock Paper Scissors Game
+## 🎮 Game UI
+
+![Rock Paper Scissors UI](Game-UI.png)
+
+
+
+
+
+🎮 **Rock Paper Scissors Game**
 
 A simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 This project demonstrates basic DOM manipulation, event handling, and game logic in JavaScript.
 
-Technologies Used
+**Technologies Used**
 
 HTML – Structure of the game
 CSS – Styling and layout
 JavaScript – Game logic and interactivity
 
-Game Rules
+**Game Rules**
 
 Rock 🪨 beats Scissors ✂️
 Scissors ✂️ beats Paper 📄
@@ -18,6 +26,6 @@ Same choices result in a Draw 🤝
 
 
 
-Author
+**Author
 Gaurav
-GitHub: KnownGaurav
+GitHub: KnownGaurav**
